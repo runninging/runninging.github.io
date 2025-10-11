@@ -1,8 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Fei Tian - Large Language Model Researcher'
 date: 2022-10-24
 type: landing
+description: 'Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning.'
+image:
+  filename: sharing.png
+  caption: 'Fei Tian'
 
 design:
   # Default section spacing
@@ -34,11 +38,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Large Language Model Researcher at StepFun, specializing in advanced speech technologies. My research focuses on speech understanding, interactive speech systems, the unification of understanding and generation, and the application of reinforcement learning within the speech domain.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I have been a key contributor to several pioneering large-scale speech models, including Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, which have significantly advanced the frontiers of speech AI.
 
-        Please reach out to collaborate 😃
+        Feel free to reach out for collaboration opportunities! 😃
     design:
       columns: '1'
   - block: collection
