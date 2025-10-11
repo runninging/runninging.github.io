@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'StepFun'
+    description: 'Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Fei Tian'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Fei Tian. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
