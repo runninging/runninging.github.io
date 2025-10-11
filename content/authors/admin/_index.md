@@ -10,7 +10,7 @@ first_name: Fei
 last_name: Tian
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Large Language Model Researcher
+role: Audio LLM Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,19 +33,19 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: at-symbol
+  #   url: 'mailto:alex.johnson@meta.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_575RmYAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Speech Understanding
@@ -57,19 +57,19 @@ interests:
 education:
   - area: MS Computer Science
     institution: Nanjing University
-    date_start: 2019-09-01
-    date_end: 2022-06-30
+    date_start: 2016-09-01
+    date_end: 2019-06-30
     summary: |
       Focused on speech processing and machine learning.
   - area: BS Computer Science
     institution: Nanjing University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2012-09-01
+    date_end: 2016-06-30
     summary: |
-      Specialized in artificial intelligence and computer science.
+      Specialized in Physics and Acoustics.
 
 work:
-  - position: Large Language Model Researcher
+  - position: Researcher, Audio LLM
     company_name: StepFun
     company_url: 'https://stepfun.com/'
     company_logo: ''
@@ -77,12 +77,12 @@ work:
     date_end: ''
     summary: |2-
       Specializing in advanced speech technologies including speech understanding, interactive speech systems, and reinforcement learning in speech domain. Led development of Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1 projects.
-  - position: Speech Researcher
+  - position: Researcher, Audio LLM
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/'
     company_logo: ''
-    date_start: 2022-07-01
-    date_end: 2022-12-31
+    date_start: 2019-07-01
+    date_end: 2024-09-01
     summary: |
       Developed end-to-end conversational speech models with the SEED speech team.
 
@@ -133,4 +133,4 @@ languages:
 awards: []
 ---
 
-Fei Tian is a dedicated Large Language Model Researcher at StepFun, specializing in advanced speech technologies. His research is centered on pivotal areas such as speech understanding, interactive speech systems, the unification of understanding and generation, and the application of reinforcement learning within the speech domain. He has played an integral role in the development of several of StepFun's pioneering large-scale speech models. His key contributions to state-of-the-art projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1 have helped significantly advance the frontiers of speech AI. Prior to his current role, Fei was instrumental in developing end-to-end conversational speech models with the ByteDance SEED speech team. Outside of his professional pursuits, he is an avid cyclist, swimmer, and rock climber. Fei is driven by the desire to contribute his strength to the journey toward Artificial General Intelligence.
+Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning. Previously, he developed end-to-end conversational models at ByteDance's SEED speech team. Fei is an avid cyclist, swimmer, and rock climber, driven by the desire to contribute his strength to the journey toward Artificial General Intelligence.
