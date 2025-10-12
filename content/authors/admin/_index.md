@@ -59,24 +59,34 @@ education:
     institution: Nanjing University
     date_start: 2016-09-01
     date_end: 2019-06-30
-    summary: |
-      Focused on speech processing and machine learning.
+    # summary: |
+    #   Focused on speech processing and machine learning.
+  - area: Visiting Scholar
+    institution: University of Technology Sydney
+    date_start: 2017-09-01
+    date_end: 2018-03-31
+    # summary: |
+    #   Received a full scholarship to conduct a six-month academic exchange at the Centre for Audio, Acoustics and Vibration (CAAV). Participated in research on speech enhancement and active noise control.
   - area: BS Physics and Acoustic
     institution: Nanjing University
     date_start: 2012-09-01
     date_end: 2016-06-30
-    summary: |
-      Specialized in Physics and Acoustics.
+    # summary: |
+    #   Specialized in Physics and Acoustics.
 
 work:
   - position: Researcher, Audio LLM
     company_name: StepFun
     company_url: 'https://stepfun.com/'
     company_logo: 'stepfun'
-    date_start: 2024-10-10
+    date_start: 2024-10-01
     date_end: ''
-    summary: |2-
-      Specializing in advanced speech technologies including speech understanding, interactive speech systems, and reinforcement learning in speech domain. Led development of Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1 projects.
+    summary: |
+      Leading the research and development of next-generation, end-to-end Audio LLMs, specializing in advanced speech understanding, interactive systems, and reinforcement learning.
+      
+      - **Step-Audio R1 & Step MPS (Project Lead)**: Ushered in the "Deepseek R1 moment" for audio LLMs by developing China's #1 speech reasoning model, directly benchmarking Gemini 2.5 Pro in perception and reasoning. Pioneered the revolutionary Step MPS (Mind-Paced Speaking) "dual-brain" framework, a global-first solution that enables complex CoT reasoning and highly empathetic, human-like interaction with zero additional latency, achieving true real-time "thinking-while-speaking."
+      - **Step-Audio 2 (Lead of Speech Understanding)**: Led the development of the world's first industrial-grade end-to-end audio LLM with deep thinking capabilities. Introduced Chain-of-Thought (CoT) reasoning and audio reinforcement learning into speech models for the first time, achieving SOTA performance across ASR, paralinguistic understanding (emotion, tone, music), and reasoning tasks for both open-source and proprietary models. [arXiv:2507.16632]
+      - **Step EditX (Co-Project Lead)**: Defined a new paradigm of instruction-based "conversational creation" for audio editing. Developed a groundbreaking model capable of zero-shot TTS, style transfer (30+ styles), emotion enhancement (14+ emotions), and one-click restoration. Achieved the industry's first semantic-level, context-aware audio editing (insertion, deletion, modification) based on natural language prompts, ensuring perfect preservation of timbre and prosody.
   - position: Researcher, Audio LLM
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/'
@@ -84,8 +94,8 @@ work:
     date_start: 2019-07-01
     date_end: 2024-09-01
     summary: |
-      - Led the R&D of the subtitle generation system for core products including TikTok (Douyin) and CapCut (Jianying), serving millions of daily requests.
-      - Spearheaded the integration and application of Seed Audio LLM, boosting new word recall from 40% to 80% and improving text correctness to over 90%.
+      - Led the R&D of the subtitle generation system for core products including TikTok, Douyin, CapCut and Jianying, serving millions of daily requests.
+      - Spearheaded the integration of Seed Audio LLM to enhance features like personalized captions, context-aware adaptation, and text normalization (ITN).
       - Architected the evolution of speech models from Transformer to Seed Audio LLM, reducing error rates by over 20% and increasing user satisfaction scores to 4.5/5.0.
       - Pioneered a multi-modal speech translation model based on Seed Audio LLM that outperformed Google, Gemini & Qwen, raising dubbing quality scores from 40% to over 85%.
 
