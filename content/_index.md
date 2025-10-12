@@ -1,9 +1,9 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Fei Tian - Audio LLM Researcher'
+title: 'Fei Tian - Researcher, Audio LLM'
 date: 2025-10-10
 type: landing
-description: 'Fei Tian is an Audio LLM Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning.'
+description: 'Fei Tian is an Audio LLM Researcher at StepFun, pioneering the next generation of speech AI. He was instrumental in developing groundbreaking projects including Step-Audio, Step-Audio 2, Step-Audio R1, and Step-MPS.'
 image:
   filename: sharing.png
   caption: 'Fei Tian'
