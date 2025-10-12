@@ -66,6 +66,35 @@ sections:
         exclude_featured: true
     design:
       view: citation
+  - block: resume-experience
+    content:
+      username: admin
+      title: Experience
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+  - block: resume-biography-3
+    content:
+      username: admin
+      title: Education
+      button:
+        text: ''
+        url: ''
+    design:
+      show_interests: false
+      show_role: false
+      show_organizations: false
+      show_social: false
+  - block: collection
+    id: projects
+    content:
+      title: Selected Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
   # - block: collection
   #   id: talks
   #   content:
