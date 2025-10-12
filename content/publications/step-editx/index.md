@@ -1,5 +1,5 @@
 ---
-title: '[Coming soon!]Step EditX: Next-Generation Conversational Speech Editing Model'
+title: '[Coming soon!] Step EditX: Next-Generation Conversational Speech Editing Model'
 
 authors:
   - admin

@@ -1,5 +1,5 @@
 ---
-title: '[Coming soon!]Step MPS: Mind-Paced Speaking Framework'
+title: '[Coming soon!] Step MPS: Mind-Paced Speaking Framework'
 
 authors:
   - admin

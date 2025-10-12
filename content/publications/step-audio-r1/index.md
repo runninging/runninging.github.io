@@ -1,5 +1,5 @@
 ---
-title: '[Coming soon!]Step-Audio R1: China''s First Speech Reasoning Model'
+title: '[Coming soon!] Step-Audio R1: Achieving Gemini 2.5 Pro-Level Reasoning in a Zero-Latency Speech LLM'
 
 authors:
   - admin
