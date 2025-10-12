@@ -124,7 +124,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 90
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
