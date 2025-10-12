@@ -84,7 +84,10 @@ work:
     date_start: 2019-07-01
     date_end: 2024-09-01
     summary: |
-      Developed end-to-end conversational speech models with the SEED speech team.
+      - Led the R&D of the subtitle generation system for core products including TikTok (Douyin) and CapCut (Jianying), serving millions of daily requests.
+      - Spearheaded the integration and application of Seed Audio LLM, boosting new word recall from 40% to 80% and improving text correctness to over 90%.
+      - Architected the evolution of speech models from Transformer to Seed Audio LLM, reducing error rates by over 20% and increasing user satisfaction scores to 4.5/5.0.
+      - Pioneered a multi-modal speech translation model based on Seed Audio LLM that outperformed Google, Gemini & Qwen, raising dubbing quality scores from 40% to over 85%.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
