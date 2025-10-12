@@ -16,6 +16,6 @@ sections:
         folders:
           - projects
     design:
-      view: article-grid
+      view: card
       columns: 2
 ---
