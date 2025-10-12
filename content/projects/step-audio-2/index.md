@@ -7,6 +7,11 @@ tags:
   - Chain-of-Thought
   - Reinforcement Learning
 summary: The world's first industrial-grade end-to-end audio LLM with deep thinking capabilities, achieving SOTA performance across multiple understanding and dialogue tasks.
+
+# Hide page elements
+show_date: false
+profile: false
+share: false
 ---
 
 ## Project Resources
@@ -21,13 +26,13 @@ summary: The world's first industrial-grade end-to-end audio LLM with deep think
 
 Step-Audio 2 is **the world's first end-to-end audio large language model with deep thinking capabilities designed for industrial applications**. This model innovatively combines a latent space audio encoder with audio reinforcement learning technology. It effectively captures paralinguistic information and speaking style features, and adopts a Chain-of-Thought (CoT) reasoning strategy combined with reinforcement learning optimization. Step-Audio 2 achieves high-performance speech dialogue capabilities across various scenarios. Experimental results demonstrate that the model achieves state-of-the-art (SOTA) performance on multiple understanding and dialogue tasks.
 
-## True End-to-End Architecture: Understanding Beyond Words
+## Architecture
 
 Traditional AI voice systems have been criticized for lacking both intelligence and emotional understanding. First, they lack the knowledge base and reasoning capabilities comparable to text-based large models. Second, they sound "robotic" and fail to comprehend subtext, tone, emotions, and laughter—the "unspoken meanings." Step-Audio 2 solves these problems through innovative architectural design, achieving both cognitive and emotional intelligence.
 
 ![Step-Audio 2 Architecture](Architecture.png)
 
-### Core Technical Features
+## Core Features
 
 - **Genuine End-to-End Multimodal Architecture**: Step-Audio 2 breaks through the traditional ASR+LLM+TTS three-stage structure, achieving direct conversion from raw audio input to speech response output. The architecture is more concise with lower latency, and can effectively understand paralinguistic information and non-vocal signals.
 
@@ -41,7 +46,7 @@ Step-Audio 2 achieves **SOTA results** across multiple key benchmarks, demonstra
 
 ![Audio Understanding Performance](Audio_understanding.png)
 
-### Key Performance Metrics
+**Key Performance Metrics**
 
 - **MMAU (General Multimodal Audio Understanding)**: Ranks **#1** with a score of **78**
 
@@ -57,6 +62,6 @@ Step-Audio 2 achieves **SOTA results** across multiple key benchmarks, demonstra
   - Average WER (Word Error Rate) on open-source English test sets: **3.14**
   - Far ahead of other models
 
-![ASR Performance](ASR_performance.png)
-
 - **Paralinguistic Understanding Tasks**: Ranks **#1** with a score of **83.1**
+
+![ASR Performance](ASR_performance.png)
