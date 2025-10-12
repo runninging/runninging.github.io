@@ -8,10 +8,21 @@ tags:
   - Reinforcement Learning
 summary: The world's first industrial-grade end-to-end audio LLM with deep thinking capabilities, achieving SOTA performance across multiple understanding and dialogue tasks.
 
+# Featured image
+image:
+  focal_point: 'Center'
+  preview_only: false
+  placement: 1
+
 # Hide page elements
 show_date: false
 profile: false
 share: false
+
+# Page design
+design:
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 ---
 
 ## Project Resources
