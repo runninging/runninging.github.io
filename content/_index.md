@@ -73,18 +73,6 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: false
-  - block: resume-biography-3
-    content:
-      username: admin
-      title: Education
-      button:
-        text: ''
-        url: ''
-    design:
-      show_interests: false
-      show_role: false
-      show_organizations: false
-      show_social: false
   - block: collection
     id: projects
     content:
@@ -93,7 +81,7 @@ sections:
         folders:
           - projects
     design:
-      view: article-grid
+      view: card
       columns: 2
   # - block: collection
   #   id: talks
