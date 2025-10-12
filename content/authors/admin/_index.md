@@ -55,13 +55,13 @@ interests:
   - Large Language Models
 
 education:
-  - area: MS Computer Science
+  - area: MS Speech Processing
     institution: Nanjing University
     date_start: 2016-09-01
     date_end: 2019-06-30
     summary: |
       Focused on speech processing and machine learning.
-  - area: BS Computer Science
+  - area: BS Physics and Acoustic
     institution: Nanjing University
     date_start: 2012-09-01
     date_end: 2016-06-30
@@ -72,15 +72,15 @@ work:
   - position: Researcher, Audio LLM
     company_name: StepFun
     company_url: 'https://stepfun.com/'
-    company_logo: ''
-    date_start: 2023-01-01
+    company_logo: 'stepfun'
+    date_start: 2024-10-10
     date_end: ''
     summary: |2-
       Specializing in advanced speech technologies including speech understanding, interactive speech systems, and reinforcement learning in speech domain. Led development of Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1 projects.
   - position: Researcher, Audio LLM
     company_name: ByteDance
     company_url: 'https://www.bytedance.com/'
-    company_logo: ''
+    company_logo: 'bytedance'
     date_start: 2019-07-01
     date_end: 2024-09-01
     summary: |

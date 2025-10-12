@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Fei Tian - Large Language Model Researcher'
+title: 'Fei Tian - Audio LLM Researcher'
 date: 2025-10-10
 type: landing
 description: 'Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning.'
