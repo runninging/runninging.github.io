@@ -1,0 +1,70 @@
+/* Custom styles for publication pages */
+
+/* Make abstract display in full width (vertical layout instead of horizontal) */
+.pub-list-item .article-metadata,
+.article-metadata {
+  display: block !important;
+  max-width: 100% !important;
+}
+
+.pub-list-item .article-metadata .article-metadata-item,
+.article-metadata .article-metadata-item {
+  display: block !important;
+  width: 100% !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Style for abstract section on publication detail pages */
+.article-container .article-metadata {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1.5rem !important;
+}
+
+.article-container .article-metadata > div {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Make abstract title and content stack vertically */
+.pub-abstract {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem !important;
+}
+
+.pub-abstract h3,
+.pub-abstract .h3 {
+  margin-bottom: 0.5rem !important;
+  font-weight: 600 !important;
+}
+
+/* Ensure abstract content takes full width */
+.pub-abstract p,
+.pub-abstract div {
+  max-width: 100% !important;
+  width: 100% !important;
+  text-align: justify !important;
+}
+
+/* Hide Type and Publication fields if they exist */
+.pub-metadata .article-metadata,
+.article-metadata {
+  .stream-meta {
+    display: none !important;
+  }
+}
+
+/* For publication detail page specifically */
+.article-container {
+  .article-header {
+    .article-metadata {
+      /* Hide publication type and venue */
+      [class*="pub-publication"],
+      [class*="publication"] {
+        display: none !important;
+      }
+    }
+  }
+}
+
