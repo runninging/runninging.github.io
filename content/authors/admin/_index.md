@@ -133,4 +133,4 @@ languages:
 awards: []
 ---
 
-Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning. Previously, he developed end-to-end conversational models at ByteDance's SEED speech team. Fei is an avid cyclist, swimmer, and rock climber, driven by the desire to contribute his strength to the journey toward Artificial General Intelligence.
+Fei Tian is an Audio LLM Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning. Previously, he developed end-to-end conversational models at ByteDance's SEED speech team. Fei is an avid cyclist, swimmer, and rock climber, driven by the desire to contribute his strength to the journey toward Artificial General Intelligence.

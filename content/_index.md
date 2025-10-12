@@ -3,7 +3,7 @@
 title: 'Fei Tian - Audio LLM Researcher'
 date: 2025-10-10
 type: landing
-description: 'Fei Tian is a Large Language Model Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning.'
+description: 'Fei Tian is an Audio LLM Researcher at StepFun, specializing in speech AI. He has been a key contributor to pioneering projects like Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, focusing on speech understanding, interactive systems, and reinforcement learning.'
 image:
   filename: sharing.png
   caption: 'Fei Tian'
@@ -38,7 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Large Language Model Researcher at StepFun, specializing in advanced speech technologies. My research focuses on speech understanding, interactive speech systems, the unification of understanding and generation, and the application of reinforcement learning within the speech domain.
+        I am an Audio LLM Researcher at StepFun, specializing in advanced speech technologies. My research focuses on speech understanding, interactive speech systems, the unification of understanding and generation, and the application of reinforcement learning within the speech domain.
 
         I have been a key contributor to several pioneering large-scale speech models, including Step-Audio, Step-Audio 2, Step-MPS, and Step-Audio R1, which have significantly advanced the frontiers of speech AI.
 
